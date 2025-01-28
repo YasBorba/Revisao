@@ -26,7 +26,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST'){
     <title>Logint</title>
     <link rel="stylesheet" href="styles.css">
 </head>
-<body class>
+<body class='login'>
     <div class="container" style="width: 400px;">
         <h2>Login</h2>
         <form method="post" action="">

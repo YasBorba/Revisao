@@ -99,16 +99,3 @@ body{
 
 }
 
-form {
-    position: absolute;
-    width: 1000px;
-    top: 60%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    background-color:rgba(208, 61, 50, 0.714); /* Fundo semi-transparente */
-    padding: 30px;
-    border-radius: 10px;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
-    unicode-bidi: isolate;
-    display: block;
-}
